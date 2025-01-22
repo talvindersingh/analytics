@@ -54,6 +54,12 @@ To enhance user-friendliness, the project files are available in two formats:
    cd credit-card-debt-prediction
 
 2. Open the .ipynb file in Jupyter Notebook
+   ```bash
    jupyter notebook credit_card_debt_prediction.ipynb
 
-3. Alternatively, open the .html file in your web browser for a quick view of the notebook content. 
+3. Alternatively, open the .html file in your web browser for a quick view of the notebook content.
+
+
+<img width="509" alt="image" src="https://github.com/user-attachments/assets/ba64b0e8-bf42-4532-a935-02ee50cadcb8" />
+
+
